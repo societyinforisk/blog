@@ -5,7 +5,7 @@ Tags: Resources
 Slug: reading-list
 Author: Bob Rudis (@hrbrmstr)
 
-## General
+### General
 <p><a href="http://www.amazon.com/gp/product/0061353248?ie=UTF8&amp;tag=sociofinforis-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0061353248">Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions</a><img alt="book" border="0" class="gdnwqwknmfzkxfmomyzp" height="1" src="http://www.assoc-amazon.com/e/ir?t=sociofinforis-20&amp;l=as2&amp;o=1&amp;a=0061353248" style="border-bottom: medium none; border-left: medium none; margin: 0px; border-top: medium none; border-right: medium none" width="1" /> Ariely, Dan</p>
 <blockquote>
 	<i>Jay Jacobs:&nbsp;</i>Focused on Behavioral Economics this book gives a glimpse into the motivations of people and the rationale, biases and fallacies that influence the decision process.</blockquote>
@@ -63,7 +63,7 @@ Author: Bob Rudis (@hrbrmstr)
 	<i>Jeff Lowder: </i>This book is surprisingly light on the methodology used to estimate the probability and impact of IT risks, but that is more than offset by the excellent suggestions around building a culture of risk management within organizations. It also introduces the 4A framework for IT risk management, which I found to be very innovative.</blockquote>
 
 &nbsp;
-## Methodology&nbsp;or Standards-Specific
+### Methodology&nbsp;or Standards-Specific
 
 <p><a href="http://www.amazon.com/gp/product/0321118863?ie=UTF8&amp;tag=sociofinforis-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321118863">Managing Information Security Risks: The OCTAVE (SM) Approach</a><img alt="book" border="0" class="gdnwqwknmfzkxfmomyzp" height="1" src="http://www.assoc-amazon.com/e/ir?t=sociofinforis-20&amp;l=as2&amp;o=1&amp;a=0321118863" style="border-bottom: medium none; border-left: medium none; margin: 0px; border-top: medium none; border-right: medium none" width="1" /> Alberts, Christopher and Audree Dorofee.</p>
 <p><a href="http://www.opengroup.org/bookstore/catalog/c081.htm">&quot;Technical Standard - Risk Taxonomy&quot;</a> The Open Group,</p>
@@ -71,10 +71,10 @@ Author: Bob Rudis (@hrbrmstr)
 	<i>Chris Carlson: </i>A reference to FAIR is certainly handy.</blockquote>
 
 &nbsp;
-## Risk Communication
+### Risk Communication
 
-<h3>
-	General</h3>
+<h4>
+	General</h4>
 <p>Gigerenzer, Gerd. <em>Calculated Risks: How to Know When Numbers Deceive You.</em> New York: Simon &amp; Schuster, 2002.</p>
 <blockquote>
 	<p>Jeff Lowder: Gigerenzer advocates using what he calls the &quot;natural frequencies&quot; approach for communicating and thinking about risks, in order to avoid the base rate fallacy.</p>
@@ -83,15 +83,15 @@ Author: Bob Rudis (@hrbrmstr)
 <blockquote>
 	<p>Jeff Lowder: Sandman is arguably one of the top risk communication experts in the world. He is famous for his &quot;Risk=Hazard + Outrage&quot; model for thinking about risk communication.</p>
 </blockquote>
-<h3>
-	Risk Matrices</h3>
+<h4>
+	Risk Matrices</h4>
 <p>Cox, Tony. &quot;<a href="http://www.evira.fi/attachments/english/research_on_animal_diseases_and_food/risk_assessment/riskmatrices.pdf">What&#39;s Wrong with Risk Matrices?</a>&quot; <em>Risk Analysis</em> 28 (2008): 497-512, DOI: 10.1111/j.1539-6924.2008.01030.x.</p>
 <blockquote>
 	<p>Jeff Lowder: The definitive overview of the problems with risk matrices.</p>
 </blockquote>
 <p>Talbot, Julian. &quot;What&#39;s Right with Risk Matrices.&quot; <a href="http://knol.google.com/k/what-s-right-with-risk-matrices#">http://knol.google.com/k/what-s-right-with-risk-matrices</a>.</p>
-<h3>
-	Verbal Probability Expressions</h3>
+<h4>
+	Verbal Probability Expressions</h4>
 <p>Beyth-Marom, R.,&nbsp;&quot;<a href="http://onlinelibrary.wiley.com/doi/10.1002/for.3980010305/abstract">How Probable&nbsp;is Probable? A&nbsp;Numerical Translation of Verbal&nbsp;Probability&nbsp;Expressions</a>&quot;&nbsp;<em>J.&nbsp;Forecast&nbsp;</em>1 (1982): 256-269,&nbsp;doi:&nbsp;10.1002/for.3980010305.</p>
 <p>Budescu, David V., Han-Hui Por, and Stephen B. Broomell, &quot;<a href="http://www.springerlink.com/content/uht5tlv6467q0k10/">Effective Communication of Uncertainty in the IPCC Reports</a>&quot; <em>Climatic Change&nbsp; </em>(in press), doi:10.1007/s10584-011-0330-3, electronically published on 23 November 2011.</p>
 <blockquote>
