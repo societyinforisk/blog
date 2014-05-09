@@ -1,7 +1,7 @@
 Title: About SIRA
-Date: 2010-10-17 21:48:00
+Date: 2014-01-01 10:05:00
 Category: news
-Tags: about
+Tags: About
 Slug: about-sira
 Author: SIRA
 
@@ -17,7 +17,8 @@ SIRA also has a pretty active blog that you can reach via the navigation tabs ab
 
 If you are interested in contributing to the SIRA blog, please use the contact form to request and account.
 
-###SIRA Mangement Team:
+&nbsp;
+## SIRA Mangement Team:
 
 The current board members are:
 
@@ -29,7 +30,8 @@ The current board members are:
 - Lisa Leet
 - Jeff Lowder
 
-###How To Get Involved
+&nbsp;
+## How To Get Involved
 
 Our primary mode of communication with each other is the mailing list. You can join that list here&mdash;[SIRA Mailing List](http://lists.societyinforisk.org/mailman/listinfo/sira)&mdash;to get involved.
 

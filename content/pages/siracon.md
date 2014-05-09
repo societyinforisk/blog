@@ -1,38 +1,39 @@
 Title: SIRACon
-Date: 2014-05-08 12:48:00
+Date: 2014-01-01 10:03:00
 Category: news
-Tags: siracon
+Tags: SIRAcon
 Slug: siracon
 Author: SIRA
 
-The Society of Information Risk Analysts (SIRA) is dedicated to continually improving the practice of information risk analysis. We endeavor to do this by supporting the collaborative efforts of our members through research, knowledge sharing, and member-driven education.
+Unlike any other security or privacy conference, at SIRACon risk is the main attraction.
+Information Risk Management is all we do.
 
-Since the whole of SIRA will always be greater than the sum of its parts, we value, above all else, the participation of our members. We understand that it is their willingness to contribute openly and constructively that will help the society reach its mission of continual improvement. To that end, SIRA promotes the collaborative efforts if its members by offering a variety of connection methods, online and off, print and electronic, challenging traditional limitations with new technology and passion.
+Whether you are in a small company, a Fortune 50 corporation, or any other type of organization, SIRACon will provide you with the tools you can use to take your organization's risk management program to the next level.
 
-The current management structure of SIRA consists of seven elected board members.
+Here you'll meet with top industry leaders and fellow IRM specialists to:
 
-Our primary mode of communication with each other is the mailing list. You can join that list here: <a href="http://lists.societyinforisk.org/mailman/listinfo/sira">SIRA Mailing List</a> to get involved.
+- **Explore** the most important risk management challenges facing your organization
+- **Discover** how methods from other risk management disciplines can help you meet those challenges
+- **Build** meaningful professional relationships that keep you at the top level of your profession
 
-SIRA also has a pretty active blog that you can reach via the navigation tabs above this text.
+&nbsp;
+## Who will be there?
 
-If you are interested in contributing to the SIRA blog, please use the contact form to request and account.
+The SIRA membership and attendees represent an dynamic cross-section of the industry today—including both decision makers and do-ers—with a blend of senior management and C-level talent in InfoSec, Op Risk, IT Risk Mgmt, Audit, & Compliance
 
-###SIRA Mangement Team:
+- Over *half* with *>10yrs experience*
+- Over *1/3* with *>15yrs* experience*
+- Key mix of *researchers* & *students*
 
-The current board members are:
+Plus cross-sector diversity, including:
 
-- Jeff Lowder - President
-- Jay Jacobs - VP
-- John Hoffoss - Treasurer
-- Alex Hutton
-- Ben Tomhave
-- Kevin Thompson
-- Evan Wheeler
+- **Financial** (Citi, RBS, Citizens, Liberty Mutual)
+- **Technology** (HP, EMC, Verizon)
+- **Consulting** (KPMG, E&Y, Deloitte)
+- **Health Care** (Kaiser, Providence Health)
+- **Higher Ed** (Harvard, George Mason, Rutgers)
 
-###How To Get Involved
+&nbsp;
+## Past SIRAcons
 
-Our primary mode of communication with each other is the mailing list. You can join that list here:&nbsp;<a href="http://lists.societyinforisk.org/mailman/listinfo/sira">SIRA Mailing List</a> to get involved.
-
-SIRA also has a pretty active blog that you can reach via the navigation tabs above this text.
-
-If you are interested in contributing to the SIRA blog, please use the contact form to request and account.
+You can take a look at [past SIRAcons](/category/siracon.html) and use the contact form to inquire about current-year plans/activities.

@@ -1,12 +1,12 @@
 Title: Bylaws
-Date: 2011-05-08 14:56:00
+Date: 2014-01-01 10:01:00
 Category: news
-Tags: bylaws
+Tags: Bylaws
 Slug: bylaws
 Author: SIRA
 
-<h1 align="center">
-	Bylaws of the Society of Information Risk Analysts</h1>
+## Bylaws of the Society of Information Risk Analysts
+
 <p align="center">Draft 1, created 10/7/2011</p>
 <p>The Society of Information Risk Analysts (hereto forth &ldquo;SIRA&rdquo; or &ldquo;Society&rdquo;) is dedicated to continually improving the practice of information technology risk analysis. We endeavor to do this by supporting the collaborative efforts of our members through research, knowledge sharing and member-driven education.</p>
 <p>Since the whole of SIRA will always be greater than the sum of its parts, we value, above all else, the participation of our members. We understand that it is their willingness to contribute openly and constructively that will help the society reach its mission of continual improvement.</p>

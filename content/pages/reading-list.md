@@ -1,11 +1,11 @@
 Title: Reading List
-Date: 2010-10-17 22:27:00
+Date: 2014-01-01 10:04:00
 Category: news
-Tags: resources
+Tags: Resources
 Slug: reading-list
 Author: Bob Rudis (@hrbrmstr)
 
-###General
+## General
 <p><a href="http://www.amazon.com/gp/product/0061353248?ie=UTF8&amp;tag=sociofinforis-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0061353248">Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions</a><img alt="book" border="0" class="gdnwqwknmfzkxfmomyzp" height="1" src="http://www.assoc-amazon.com/e/ir?t=sociofinforis-20&amp;l=as2&amp;o=1&amp;a=0061353248" style="border-bottom: medium none; border-left: medium none; margin: 0px; border-top: medium none; border-right: medium none" width="1" /> Ariely, Dan</p>
 <blockquote>
 	<i>Jay Jacobs:&nbsp;</i>Focused on Behavioral Economics this book gives a glimpse into the motivations of people and the rationale, biases and fallacies that influence the decision process.</blockquote>
@@ -62,14 +62,17 @@ Author: Bob Rudis (@hrbrmstr)
 <blockquote>
 	<i>Jeff Lowder: </i>This book is surprisingly light on the methodology used to estimate the probability and impact of IT risks, but that is more than offset by the excellent suggestions around building a culture of risk management within organizations. It also introduces the 4A framework for IT risk management, which I found to be very innovative.</blockquote>
 
-###Methodology&nbsp;or Standards-Specific
+&nbsp;
+## Methodology&nbsp;or Standards-Specific
 
 <p><a href="http://www.amazon.com/gp/product/0321118863?ie=UTF8&amp;tag=sociofinforis-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0321118863">Managing Information Security Risks: The OCTAVE (SM) Approach</a><img alt="book" border="0" class="gdnwqwknmfzkxfmomyzp" height="1" src="http://www.assoc-amazon.com/e/ir?t=sociofinforis-20&amp;l=as2&amp;o=1&amp;a=0321118863" style="border-bottom: medium none; border-left: medium none; margin: 0px; border-top: medium none; border-right: medium none" width="1" /> Alberts, Christopher and Audree Dorofee.</p>
 <p><a href="http://www.opengroup.org/bookstore/catalog/c081.htm">&quot;Technical Standard - Risk Taxonomy&quot;</a> The Open Group,</p>
 <blockquote>
 	<i>Chris Carlson: </i>A reference to FAIR is certainly handy.</blockquote>
 
-###Risk Communication
+&nbsp;
+## Risk Communication
+
 <h3>
 	General</h3>
 <p>Gigerenzer, Gerd. <em>Calculated Risks: How to Know When Numbers Deceive You.</em> New York: Simon &amp; Schuster, 2002.</p>
