@@ -17,10 +17,9 @@ SIRA also has a pretty active blog that you can reach via the navigation tabs ab
 
 If you are interested in contributing to the SIRA blog, please use the contact form to request and account.
 
-&nbsp;
 ### SIRA Mangement Team:
 
-The current board members are:
+The current (2014) board members are:
 
 - Allison Miller - President
 - John Hoffoss
@@ -30,7 +29,6 @@ The current board members are:
 - Bob Rudis
 - David Severski
 
-&nbsp;
 ### How To Get Involved
 
 Our primary mode of communication with each other is the mailing list. You can join that list here&mdash;[SIRA Mailing List](http://lists.societyinforisk.org/mailman/listinfo/sira)&mdash;to get involved.

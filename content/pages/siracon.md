@@ -16,7 +16,6 @@ Here you'll meet with top industry leaders and fellow IRM specialists to:
 - **Discover** how methods from other risk management disciplines can help you meet those challenges
 - **Build** meaningful professional relationships that keep you at the top level of your profession
 
-&nbsp;
 ### Who will be there?
 
 The SIRA membership and attendees represent an dynamic cross-section of the industry today—including both decision makers and do-ers—with a blend of senior management and C-level talent in InfoSec, Op Risk, IT Risk Mgmt, Audit, & Compliance
@@ -33,7 +32,6 @@ Plus cross-sector diversity, including:
 - **Health Care** (Kaiser, Providence Health)
 - **Higher Ed** (Harvard, George Mason, Rutgers)
 
-&nbsp;
 ### Past SIRAcons
 
-You can take a look at [past SIRAcons](/category/siracon.html) and use the contact form to inquire about current-year plans/activities.
+You can take a look at [past SIRAcons](/stg/category/siracon.html) and use the contact form to inquire about current-year plans/activities.
