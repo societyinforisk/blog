@@ -5,7 +5,7 @@ Tags: About
 Slug: about-sira
 Author: SIRA
 
-The Society of Information Risk Analysts (SIRA) is dedicated to continually improving the practice of information risk analysis. We endeavor to do this by supporting the collaborative efforts of our members through research, knowledge sharing, and member-driven education.
+<img src="/stg/images/sira-logo-med.png" align="right"/>The Society of Information Risk Analysts (SIRA) is dedicated to continually improving the practice of information risk analysis. We endeavor to do this by supporting the collaborative efforts of our members through research, knowledge sharing, and member-driven education.
 
 Since the whole of SIRA will always be greater than the sum of its parts, we value, above all else, the participation of our members. We understand that it is their willingness to contribute openly and constructively that will help the society reach its mission of continual improvement. To that end, SIRA promotes the collaborative efforts if its members by offering a variety of connection methods, online and off, print and electronic, challenging traditional limitations with new technology and passion.
 
