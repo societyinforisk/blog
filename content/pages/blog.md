@@ -17,7 +17,7 @@ There are three "blogs" at SIRA:
 
 Most modern blogging software has the capablity to generate an Atom/RSS feed from post categories or tags. If you blog about risk and want to be included in the SIRA risk blog aggregation, all you need to do is ensure you've got a feed that is risk-centered and submit that feed to us.
 
-<iframe style="border:1px solid black" seamless frameborder=0 scrolling="no" src="https://docs.google.com/a/rudis.net/forms/d/1qp1hygf6_QBRLpF_7VhTVna23zPC0t73HSpebHZHFug/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<enter><iframe style="border:1px solid black" seamless frameborder=0 scrolling="no" src="https://docs.google.com/a/rudis.net/forms/d/1qp1hygf6_QBRLpF_7VhTVna23zPC0t73HSpebHZHFug/viewform?embedded=true" width="500" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></center>
 
 We'll review your submission and feed and let you know you're in once it all looks good. While not required, we would appreciate a link back to SIRA on your site to help introduce others to our organization your fellow risk-bloggers.
 
