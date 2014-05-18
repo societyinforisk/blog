@@ -11,7 +11,7 @@ The idea is relatively simple - take a "Fish" or Ishikawa Diagram ([http://en.wi
 
 So instead of production/manufacturing's categories of People, Methods, Machines, Materials and so forth, all I did was apply VERIS categories of incident classification - and added a "Controls" tree.  
 
-You can grab the [PDF version](/stg/images/VERIS_RiskFish_0.pdf), [Visio version]({{ SITEURL }}/images/RiskFish_Visio_v2.vsd) or [OmniGraffle version](/stg/images/VERIS_RiskFish.graffle.zip). I've been using it personally for a while, and while it's not really earth-shattering, perspective-changing, risk model-arama - I have found that it can be really useful, almost a risk analyst's swiss army knife.
+You can grab the [PDF version](/stg/extra/VERIS_RiskFish_0.pdf), [Visio version](/stg/extra/RiskFish_Visio_v2.vsd) or [OmniGraffle version](/stg/extra/VERIS_RiskFish.graffle.zip). I've been using it personally for a while, and while it's not really earth-shattering, perspective-changing, risk model-arama - I have found that it can be really useful, almost a risk analyst's swiss army knife.
 
 ![riskfish](/stg/images/VERIS_RiskFish.png) 
   
