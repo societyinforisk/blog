@@ -5,7 +5,7 @@ Tags: Aggregated_Blogs
 Slug: more-than-just-numbers-jonesj-2010-11-29-12:06:45
 Author: JonesJ
 
->[More than just numbers](http://feedproxy.google.com/~r/Riskanalysis/~3/y7HsZlYCXZw/) originally posted at [RiskAnalys.is](http://riskmanagementinsight.com/riskanalysis)
+>[More than just numbers](http://feedproxy.google.com/~r/Riskanalysis/~3/y7HsZlYCXZw/) originally posted at [RiskAnalys.is](http://riskmanagementinsight.com/riskanalysis) and syndicated at [SIRA](http://societyinforisk.org)
 ***
 Many people believe that FAIR focuses strictly on quantitative risk statements, but they couldn’t be further from the truth.  The numbers simply allow us to recognize conditions and convey information better than we could do in any other way.  Sometimes, however, numbers don’t tell the whole story.
 
@@ -34,4 +34,5 @@ Another important aspect of unstable conditions is that in some cases the lack o
 Many of us would intuitively recognize the nature of these conditions when evaluating a scenario, so you may be asking what the big deal is about formalizing their definition.  Well, because it’s difficult to convey these conditions quantitatively or qualitatively, what tends to happen is that people “adjust” the assigned risk level for scenarios like these so they’ll land in the high-risk category — essentially equating these scenarios to scenarios where the loss event frequency is actually high.  Unfortunately, in doing so they misinform their decision-makers.  The fact is, these conditions  are importantly different from scenarios where the frequency/likelihood of loss are high, and management needs to recognize this difference and decide accordingly.
 
 ![](http://feeds.feedburner.com/~r/Riskanalysis/~4/y7HsZlYCXZw)
+
 
