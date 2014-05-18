@@ -21,9 +21,9 @@ If you are interested in contributing to the SIRA blog, please use the contact f
 
 The current (2014) board members are:
 
-- Allison Miller - President
 - John Hoffoss
 - Jay Jacobs
+- Allison Miller - President
 - Lisa Leet
 - Jeff Lowder
 - Bob Rudis
