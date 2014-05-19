@@ -23,6 +23,13 @@ We'll review your submission and feed and let you know you're in once it all loo
 
 For examples of other blog aggregation sites, take a look at [r-bloggers](http://www.r-bloggers.com/) &amp; [StatsBlogs](http://www.statsblogs.com/).
 
+**Current Risk-Blog Contributors**
+
+- Chris Hayes - [Risktical Ramblings](http://risktical.com/category/risk/)
+- Jay Jacobs - [Behavioral Security](http://beechplane.wordpress.com/category/risk-2/)
+- [RiskAnalys.is](http://riskmanagementinsight.com/riskanalysis/)
+- Bob Rudis - [rud.is » Risk](http://rud.is/b/category/risk/)
+
 ### SIRA Blog Feeds
 
 Each tag and category has it's own feed, but the three Atom feeds most folks will be interested in are:
