@@ -11,13 +11,7 @@ Since the whole of SIRA will always be greater than the sum of its parts, we val
 
 The current management structure of SIRA consists of seven elected board members.
 
-Our primary mode of communication with each other is the mailing list. You can join that list here: <a href="http://lists.societyinforisk.org/mailman/listinfo/sira">SIRA Mailing List</a> to get involved.
-
-SIRA also has a fairly active blog that you can reach via the navigation tabs on the site.
-
-If you are interested in contributing to the SIRA blog, please use the contact form to request and account.
-
-### SIRA Mangement Team:
+### SIRA Management Team:
 
 The current (2014) board members are:
 
