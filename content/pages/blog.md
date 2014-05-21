@@ -8,8 +8,8 @@ Author: SIRA
 There are three "blogs" at SIRA:
 
 - the Society & site news feed on the main page
-- the official Society [blog](/stg/category/blog.html)
-- the Society's [risk blog aggregator](/stg/category/riskblog.html)
+- the official Society [blog](/category/blog.html)
+- the Society's [risk blog aggregator](/category/riskblog.html)
 
 **You** can blog on SIRA by creating a "risk" Atom or RSS feed from your existing blog and submit it to us for consideration.
 
@@ -34,6 +34,6 @@ For examples of other blog aggregation sites, take a look at [r-bloggers](http:/
 
 Each tag and category has it's own feed, but the three Atom feeds most folks will be interested in are:
 
-- The *complete* site content (including the risk blog aggregation feed) : [all.atom.xml](/stg/feeds/all.atom.xml)
-- The SIRA News feed which will contain all official Board, SIRAcon & iRMBOK news: [news.atom.xml](/stg/feeds/category/news.atom.xml)
-- The risk aggregator combined feed [riskblog.atom.xml](/stg/feeds/category/riskblog.atom.xml)
+- The *complete* site content (including the risk blog aggregation feed) : [all.atom.xml](/feeds/all.atom.xml)
+- The SIRA News feed which will contain all official Board, SIRAcon & iRMBOK news: [news.atom.xml](/feeds/category/news.atom.xml)
+- The risk aggregator combined feed [riskblog.atom.xml](/feeds/category/riskblog.atom.xml)

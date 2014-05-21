@@ -34,4 +34,4 @@ Plus cross-sector diversity, including:
 
 ### Past SIRAcons
 
-You can take a look at [past SIRAcons](/stg/category/siracon.html) and use the contact form to inquire about current-year plans/activities.
+You can take a look at [past SIRAcons](/category/siracon.html) and use the contact form to inquire about current-year plans/activities.

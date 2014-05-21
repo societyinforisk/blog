@@ -5,7 +5,7 @@ Tags: siracon
 Slug: siracon-2014
 Author: SIRA
 
-<img src="http://societyinforisk.org/stg/images/sira-mn-2014.png" style="max-width:100%; margin-left:auto; margin-right:auto; padding-bottom:30px"/>
+<img src="http://societyinforisk.org/images/sira-mn-2014.png" style="max-width:100%; margin-left:auto; margin-right:auto; padding-bottom:30px"/>
 
 Mark your calendars! SIRAcon 2014 will be held October 9th-10th in Minneapolis, MN!
 
