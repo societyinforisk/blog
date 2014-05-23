@@ -30,6 +30,7 @@ For examples of other blog aggregation sites, take a look at [r-bloggers](http:/
 - [RiskAnalys.is](http://riskmanagementinsight.com/riskanalysis/)
 - Bob Rudis - [rud.is » Risk](http://rud.is/b/category/risk/)
 - Jack Freund - [The Risk Doctor](http://riskdr.com/)
+- Jack Freund - [&lt;reg&gt; IT &lt;/ulation&gt;](http://www.regitulation.com/)
 
 ### SIRA Blog Feeds
 
