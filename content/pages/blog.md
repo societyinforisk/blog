@@ -27,10 +27,10 @@ For examples of other blog aggregation sites, take a look at [r-bloggers](http:/
 
 - Chris Hayes - [Risktical Ramblings](http://risktical.com/category/risk/)
 - Jay Jacobs - [Behavioral Security](http://beechplane.wordpress.com/category/risk-2/)
-- [RiskAnalys.is](http://riskmanagementinsight.com/riskanalysis/)
+- (Multiple Contributors) - [RiskAnalys.is](http://riskmanagementinsight.com/riskanalysis/)
 - Bob Rudis - [rud.is » Risk](http://rud.is/b/category/risk/)
 - Jack Freund - [The Risk Doctor](http://riskdr.com/)
-- Jack Freund - [&lt;reg&gt; IT &lt;/ulation&gt;](http://www.regitulation.com/)
+- Dave Dyk - [&lt;reg&gt; IT &lt;/ulation&gt;](http://www.regitulation.com/)
 
 ### SIRA Blog Feeds
 
