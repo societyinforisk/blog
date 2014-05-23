@@ -29,6 +29,7 @@ For examples of other blog aggregation sites, take a look at [r-bloggers](http:/
 - Jay Jacobs - [Behavioral Security](http://beechplane.wordpress.com/category/risk-2/)
 - [RiskAnalys.is](http://riskmanagementinsight.com/riskanalysis/)
 - Bob Rudis - [rud.is » Risk](http://rud.is/b/category/risk/)
+- Jack Freund - [The Risk Doctor](http://riskdr.com/)
 
 ### SIRA Blog Feeds
 
