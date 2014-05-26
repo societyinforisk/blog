@@ -15,7 +15,7 @@ In this post I’ll describe two conditions defined within the FAIR framework th
 
 Suppose we have a scenario where the threat landscape is very active but, due to a single extremely effective control, we actually have a very low probability of loss.  If we were to plot this condition as a point on an X-Y chart, it might look something like this:
 
-[![](http://riskmanagementinsight.com/riskanalysis/wp-content/uploads/2010/11/Unstable-chart-300x267.jpg "Unstable chart")](http://riskmanagementinsight.com/riskanalysis/wp-content/uploads/2010/11/Unstable-chart.jpg)
+[![img](http://riskmanagementinsight.com/riskanalysis/wp-content/uploads/2010/11/Unstable-chart-300x267.jpg "Unstable chart")](http://riskmanagementinsight.com/riskanalysis/wp-content/uploads/2010/11/Unstable-chart.jpg)
 
 Now, if all we provided management was this point on a chart, there’s a decent chance they’d be fine with it.  After all, the frequency is low and the magnitude isn’t outlandish.  What isn’t conveyed in the chart however, is the fact that if the single control fails, the point moves rapidly to the right — i.e., there is no “grace period” or window of time in which we might avoid compromise.  The threat event frequency is just too high.
 

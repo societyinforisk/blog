@@ -19,6 +19,6 @@ So what’s the real damage here?  As I said in order for CBC to be effective, 
 
 Overall, I think the claim of “AES is broken on the iPhone” is a bit overblown, but it’s up to the interpretation of “broken”.  If I were to rate this finding on a risk scale from “meh” to “sky is falling”, off the cuff I’d say it was more towards “meh”.  I’d appreciate this fixed from apple at some point… that is, if they get around to it and can squeeze it in so it doesn’t affect when I can get an iPhone 5…  I’d totally apply that patch.  But I certainly wouldn’t chuck my phone in the river over this.
 
-[![](http://feeds.wordpress.com/1.0/comments/beechplane.wordpress.com/96/)](http://feeds.wordpress.com/1.0/gocomments/beechplane.wordpress.com/96/) ![](http://stats.wordpress.com/b.gif?host=beechplane.wordpress.com&blog=13708129&post=96&subd=beechplane&ref=&feed=1)
+[![img](http://feeds.wordpress.com/1.0/comments/beechplane.wordpress.com/96/)](http://feeds.wordpress.com/1.0/gocomments/beechplane.wordpress.com/96/) ![img](http://stats.wordpress.com/b.gif?host=beechplane.wordpress.com&blog=13708129&post=96&subd=beechplane&ref=&feed=1)
 
 
