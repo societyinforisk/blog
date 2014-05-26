@@ -25,6 +25,6 @@ I take comfort in these stories, we are not unique, we are not alone.
 
 As we move forward in the pursuit of information risk, let’s stay focused on where the real work should be done: measuring and communicating risk.  Let’s put a little less effort on defining it just yet.  Don’t’ get me wrong, definitions are helpful, but let’s not get all wrapped up in the precision of words when we’re still struggling with the concepts they are describing.
 
-![img](/images/blank.png%20/></a>%20<img%20alt=)
+[![img](/images/blank.png)](#) ![img](/images/blank.png)
 
 
