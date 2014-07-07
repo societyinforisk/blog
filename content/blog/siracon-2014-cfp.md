@@ -1,14 +1,13 @@
 Title: SIRAcon 2014!
-Date: 2014-07-07 12:00:00
+Date: 2014-07-07 12:45:00
 Category: News
-Status: draft
 Tags: siracon
 Slug: siracon-2014-cfp-open
 Author: Lisa Leet
 
 <img src="/images/siraconbadge.png" align="right" style="padding-left:10px"/>
 
-The **third annual SIRAcon** will be held in Minneapolis, Minnesota on **Thursday and Friday, October 9th and 10th, 2014**. We invite you to share your expertise!
+<span style="font-size:120%">The **third annual SIRAcon** will be held in Minneapolis, Minnesota on **Thursday and Friday, October 9th and 10th, 2014**. We invite you to share your expertise!</font>
 
 #### WHY SHOULD I PRESENT AT SIRACON?
 
