@@ -1,6 +1,6 @@
 Title: SIRAcon 2014 Call for Papers!
 Date: 2014-07-07 12:45:00
-Category: News
+Category: SpiffyNews
 Tags: siracon
 Status: draft
 Slug: siracon-2014-cfp-open-test
