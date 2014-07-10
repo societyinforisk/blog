@@ -1,11 +1,11 @@
 Title: SIRAcon 2014 Call for Papers!
-Date: 2014-07-07 12:45:00
+Date: 2014-07-10 16:30:00
 Category: News
 Tags: siracon
 Slug: siracon-2014-cfp-open
 Author: Lisa Leet
 
-<img src="/images/siraconbadge.png" align="right" style="padding-left:10px"/>
+<img src="https://societyinforisk.org//images/siraconbadge.png" align="right" style="padding-left:10px"/>
 
 <span style="font-size:120%">The **third annual SIRAcon** will be held in Minneapolis, Minnesota on **Thursday and Friday, October 9th and 10th, 2014**. We invite you to share your expertise!</font>
 
@@ -43,7 +43,7 @@ Suggested topics include (but are not limited to):
 
 #### HOW DO I SUBMIT A TOPIC?
 
-Submitting a topic is EASY. Just [complete the form](https://docs.google.com/a/societyinforisk.org/forms/d/1Aan7Qc90xpru97LI-1VbcHMPRPO_TI73zlUJn1atNUk/viewform)!
+Submitting a topic is EASY. Just [complete the form](https://siracon2014.busyconf.com/proposals/new)!
 
 #### IMPORTANT DATES/INFO
 
