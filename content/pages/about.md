@@ -9,13 +9,14 @@ Author: SIRA
 
 Since the whole of SIRA will always be greater than the sum of its parts, we value, above all else, the participation of our members. We understand that it is their willingness to contribute openly and constructively that will help the society reach its mission of continual improvement. To that end, SIRA promotes the collaborative efforts if its members by offering a variety of connection methods, online and off, print and electronic, challenging traditional limitations with new technology and passion.
 
-The current management structure of SIRA consists of seven elected board members.
+The current management structure of SIRA consists of seven elected board members and one appointed treasurer.
 
 ### SIRA Management Team:
 
 The current (2014) board members are:
 
-- John Hoffoss
+- John Hoffoss - Treasurer (Appointed)
+- Chris Hayes
 - Jay Jacobs
 - Allison Miller - President
 - Lisa Leet
