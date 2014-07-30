@@ -1,5 +1,5 @@
 Title: SIRAcon 2014 Call for Papers!
-Date: 2014-07-10 16:30:00
+Date: 2014-07-30 10:30:00
 Category: News
 Tags: siracon
 Slug: siracon-2014-cfp-open
@@ -48,8 +48,8 @@ Submitting a topic is EASY. Just [complete the form](https://siracon2014.busycon
 #### IMPORTANT DATES/INFO
 
 - SIRACon 2014 Conference Chair: Lisa Leet
-- CFP **closes** on *Friday, August 1st, 2014 at 11:59 PM CDT*
-- Speaker selection and notification via email by Friday, August 15th, 2014
+- CFP **closes** on *Friday, August 15th, 2014 at 11:59 PM CDT*
+- Speaker selection and notification via email by Friday, August 30th, 2014
 
 QUESTIONS? Contact <a href="mailto:cfp@societyinforisk.org">cfp@societyinforisk.org</a>
 
