@@ -1,11 +1,11 @@
 Title: SIRAcon 2014 Travel/Hotel Information
-Date: 2014-08-13 00:50:00
+Date: 2014-08-13 00:55:00
 Category: News
 Tags: siracon
 Slug: siracon-2014-travel-hotel
 Author: Lisa Leet
 
-We are pleased to announce that SIRACon 2014 will be hosted by **Ameriprise Financial**, at their global headquarters conference facility in downtown Minneapolis, MN. A number of you have asked about hotels. The answer is, there are several in the neighborhood including:
+We are pleased to announce that SIRACon 2014 will be hosted by [Ameriprise Financial](https://www.ameriprise.com/), at their global headquarters conference facility in downtown Minneapolis, MN. A number of you have asked about hotels. The answer is, there are several in the neighborhood including:
 
 - [Grand Hotel](http://www.grandhotelminneapolis.com/)
 - [Hilton Minneapolis](http://www.reservation-desk.com/hotel/131289/hilton-minneapolis/)
