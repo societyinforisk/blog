@@ -16,10 +16,10 @@ We found out there is another conference in town that week, and rooms are fillin
 
 The Grand Hotel has extended us a courtesy block on a limited number of rooms if you book between now and September 3rd. These are run-of-house rooms, mostly single king, at a rate of $299 per night. Additional details:
 
--Guests may call 1-800-KIMPTON for reservations and ask for the *Society of Information Risk Analysts block*
--Guests can book online using use rate code: **SOCIET1008**
--Credit card required at the time of reservation and upon check in
--All guests entitled to complimentary wifi, use of LifeTime Athletic Club, wine hour from 5-6pm and coffee/tea service until 9am each morning.
+- Guests may call 1-800-KIMPTON for reservations and ask for the *Society of Information Risk Analysts block*
+- Guests can book online using use rate code: **SOCIET1008**
+- Credit card required at the time of reservation and upon check in
+- All guests entitled to complimentary wifi, use of LifeTime Athletic Club, wine hour from 5-6pm and coffee/tea service until 9am each morning.
 
 Many downtown hotels are within walking distance of the venue, so feel free to let your budget and points preferences and such help you find appropriate accommodations.
 
