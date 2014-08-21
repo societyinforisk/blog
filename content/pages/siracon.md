@@ -5,7 +5,7 @@ Tags: SIRAcon
 Slug: siracon
 Author: SIRA
 
-![img](//societyinforisk.org/images/sira-mn-2014.png)
+<center>![img](//societyinforisk.org/images/sira-mn-2014.png)</center>
 
 <span style="font-size:120%">Tickes are now on sale for SIRAcon 2014! Discounts are available for SIRA Paid Members &amp; early bird's. Space is limited so act now!</span>
 
