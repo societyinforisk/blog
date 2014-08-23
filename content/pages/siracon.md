@@ -7,7 +7,7 @@ Author: SIRA
 
 <center>![img](//societyinforisk.org/images/sira-mn-2014.png)</center>
 
-<span style="font-size:120%">Tickes are now on sale for SIRAcon 2014! Discounts are available for SIRA Paid Members &amp; early bird's. Space is limited so act now!</span>
+<span style="font-size:120%">Tickets are now on sale for SIRAcon 2014! Discounts are available for SIRA Paid Members &amp; early bird's. Space is limited so act now!</span>
 
 <center><button id="siracon2014buynow" onclick="window.open('https://siracon2014.busyconf.com/bookings/new', '_blank')" type="button" class="btn btn-primary">Skip the IFRAME and buy tickets at BusyConf</button></center>
 
@@ -21,7 +21,7 @@ We are pleased to announce that SIRACon 2014 will be hosted by [Ameriprise Finan
 - [Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/hotels/minnesota/hilton-garden-inn-minneapolis-downtown-MSPCNGI/index.html)
 - [Holiday Inn Express](http://www.hiexpress.com/hotels/us/en/minneapolis/mspdt/hoteldetail)
 
-We found out there is another conference in town that week, and rooms are filling fast. We recommend you book your accommodations now.
+There is another conference in town that week, and rooms are filling fast. We recommend you book your accommodations now.
 
 The Grand Hotel has extended us a courtesy block on a limited number of rooms if you book between now and September 3rd. These are run-of-house rooms, mostly single king, at a rate of $299 per night. Additional details:
 
