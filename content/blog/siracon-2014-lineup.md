@@ -19,7 +19,7 @@ Author: SIRA
 
 <span style="font-size:18px; font-weight:bold">Ali Samad-Khan</span> is Founder and President of <a href="http://www.stamfordrisk.com/">Stamford Risk Analytics</a>. He has over fifteen years experience in risk management and more than twenty-five years experience in financial services and consulting. Ali has advised more than 100 of the world’s leading banks, insurance, energy, technology and transportation companies, multi-lateral organizations and bank regulators on a full range of risk measurement and management issues. Key elements of his Modern ORM/ERM framework/methodology have been adopted by leading institutions around the world.
 
-<center><hr style="margin-top:30px; margin-bottom:30px" noshade width="80%" size="1"/></center>
+<hr style="margin-top:30px; margin-bottom:30px" noshade width="100%" size="1"/>
 
 <div style="width:100%; text-align:right; font-weight:bold; margin-bottom:8px;">Friday, October 10 - 8:30 AM</div>
 
