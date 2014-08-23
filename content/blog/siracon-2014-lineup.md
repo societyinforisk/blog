@@ -13,7 +13,7 @@ Author: SIRA
 ## Keynotes
 
 
-<div style="width:80%;margin-bottom:20px;margin-left:auto; margin-right:auto; line-height:20px">
+<div style="width:80%;margin-bottom:20px;margin-left:auto; margin-right:auto; line-height:20px; font-family: 'Ubuntu', sans-serif;">
   
   <div style="width:100%; text-align:right; font-weight:bold; margin-bottom:8px;">Thursday, October 9 - 8:00 AM</div>
 
