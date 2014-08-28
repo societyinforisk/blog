@@ -1,7 +1,6 @@
 Title: SIRACon 2014 Lineup
 Date: 2014-08-28 15:00:00
 Category: news
-Status: draft
 Tags: SIRAcon
 Slug: siracon-2014-lineup
 Author: SIRA
