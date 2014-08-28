@@ -1,5 +1,5 @@
 Title: SIRACon 2014 Lineup
-Date: 2014-08-28 15:00:00
+Date: 2014-08-28 16:30:00
 Category: news
 Tags: SIRAcon
 Slug: siracon-2014-lineup
@@ -43,7 +43,7 @@ In addition to his books, Mr. Hubbard has been published in CIO Magazine, Inform
 - **Jack Jones, President at CXOWARE, Inc**: Let's Get Explicit...
 - **Stuart Layton, Senior Analytics Engineer at BitSight**: Effectiveness of Controls Against Spoofing Attacks
 - **Rachael Lininger, Consultant at Three Letter Associates, LLC.**: Why Can't We Have Nice Things? Original Research on Conflict Resolution Styles in Information Security and Risk Management
-- **Allison Miller, Risk/Security Management & E-Commerce Strategy Expert at Google**: When Algorithms Are Our Co-pilots
+- **Allison Miller, Risk/Security Management & E-Commerce Strategy Expert**: When Algorithms Are Our Co-pilots
 - **Timothy Peacock, Threat Research at Shape Security**: Automation and Disruption in Stolen Payment Card Markets
 - **Alex Pinto, Chief Data Scientist at MLSec Project**: Secure Because Math: A Deep Dive on Machine Learning-Based Monitoring
 - **Michael Roytman, Data Scientist at Risk I/O**: The Power Law of Information Security - Nothing is Linear
