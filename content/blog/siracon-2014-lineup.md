@@ -37,9 +37,19 @@ In addition to his books, Mr. Hubbard has been published in CIO Magazine, Inform
 
 ### But wait - there’s MORE!
 
-**Look at all these sessions. Get ready for two mind-blowing days in Minneapolis:**
+**[Look at all these sessions](https://siracon2014.busyconf.com/schedule). Get ready for two mind-blowing days in Minneapolis:**
 
-<center>
-  <iframe style="width:650px;height:1300px" scrolling="no" border=0 seamless="seamless" src="https://siracon2014.busyconf.com/schedule"></iframe>
-</center>
+- **Trey Ford, Global Security Strategist at Rapid 7**: Executive Reporting in the age of Continuous Compromise
+- **Jay Jacobs, Data Scientist at Verizon**: How I Learned to Stop Worrying and Love the Math
+- **Jack Jones, President at CXOWARE, Inc**: Let's Get Explicit...
+- **Stuart Layton, Senior Analytics Engineer at BitSight**: Effectiveness of Controls Against Spoofing Attacks
+- **Rachael Lininger, Consultant at Three Letter Associates, LLC.**: Why Can't We Have Nice Things? Original Research on Conflict Resolution Styles in Information Security and Risk Management
+- **Allison Miller, Risk/Security Management & E-Commerce Strategy Expert at Google**: When Algorithms Are Our Co-pilots
+- **Timothy Peacock, Threat Research at Shape Security**: Automation and Disruption in Stolen Payment Card Markets
+- **Alex Pinto, Chief Data Scientist at MLSec Project**: Secure Because Math: A Deep Dive on Machine Learning-Based Monitoring
+- **Michael Roytman, Data Scientist at Risk I/O**: The Power Law of Information Security - Nothing is Linear
+- **Bob Rudis, Security Data Scientist at Verizon**: Enterprise Risk Management: Building Telemetry Practices to Improve the Culture of Assurance
+- **Russell Thomas, Security Data Scientist at a large financial services firm**: Estimating Aggregate Performance Indexes  From Messy Ground Truth Data
+- **Evan Wheeler, Director of IT Risk Management at Omgeo**: Stop Calling My Baby Ugly - Elements of a Mature IT Risk Program
 
+Earlybird pricing ends September 1st. Don't miss out! Click here to [buy your tickets at BusyConf](https://siracon2014.busyconf.com/bookings/new).
