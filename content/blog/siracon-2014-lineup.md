@@ -1,5 +1,5 @@
 Title: SIRACon 2014 Lineup
-Date: 2014-08-23 07:00:00
+Date: 2014-09-06 07:00:00
 Category: news
 Status: draft
 Tags: SIRAcon
