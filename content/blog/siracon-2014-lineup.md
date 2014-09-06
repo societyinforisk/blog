@@ -1,9 +1,8 @@
 Title: SIRACon 2014 Lineup
 Date: 2014-09-06 08:00:00
 Category: news
-Status: draft
 Tags: SIRAcon
-Slug: siracon-2014-keynotes-lineup
+Slug: siracon-2014-lineup
 Author: SIRA
 
 <center>![img](//societyinforisk.org/images/sira-mn-2014.png)</center>
