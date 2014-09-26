@@ -7,7 +7,7 @@ Author: SIRA
 
 <center>![img](//societyinforisk.org/images/sira-mn-2014.png)</center>
 
-<span style="font-size:120%">Tickets are now on sale for SIRAcon 2014! Discounts are available for SIRA Paid Members &amp; early bird's. Space is limited so act now!</span>
+<span style="font-size:120%">Tickets are now on sale for SIRAcon 2014! Discounts are available for SIRA Paid Members &amp; early birds. Space is limited so act now!</span>
 
 <center><button id="siracon2014buynow" onclick="window.open('https://siracon2014.busyconf.com/bookings/new', '_blank')" type="button" class="btn btn-primary">Skip the IFRAME and buy tickets at BusyConf</button></center>
 
