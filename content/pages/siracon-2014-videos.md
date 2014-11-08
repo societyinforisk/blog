@@ -182,7 +182,7 @@ Author: SIRA
 
 <!-- THE YOUTUBE PLAYER -->
 <div class="vid-container">
-    <iframe id="vid_frame" src="http://www.youtube.com/embed/t_PNncHWDtI?rel=0&showinfo=0&autohide=1" frameborder="0" width="100%" height="315"></iframe>
+<iframe id="vid_frame" src="http://www.youtube.com/embed/t_PNncHWDtI?rel=0&showinfo=0&autohide=1" frameborder="0" width="100%" height="315"></iframe>
 </div>
 
 <!-- THE PLAYLIST -->
