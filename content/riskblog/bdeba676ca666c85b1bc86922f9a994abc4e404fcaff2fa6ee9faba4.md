@@ -5,7 +5,7 @@ Tags: Aggregated_Blogs
 Slug: defining-risk-jay-jacobs-2011-02-11-14:30:32
 Author: Jay Jacobs
 
->[Defining Risk](http://beechplane.wordpress.com/2011/02/11/defining-risk/) originally posted at [Behavioral Security » Risk](http://beechplane.wordpress.com) and syndicated at [SIRA](http://societyinforisk.org)
+>[Defining Risk](https://beechplane.wordpress.com/2011/02/11/defining-risk/) originally posted at [Behavioral Security » Risk](https://beechplane.wordpress.com) and syndicated at [SIRA](http://societyinforisk.org)
 ***
 There are about as many definitions of risk as people you can ask and I’ve spent far too much energy pursuing this elusive definition but I think I can say, I’ve reached a good place.  After all my reading, pontifications and discussions I feel that I am ready to answer the deceptively simple question “how do you define risk?” with this very simple answer:
 
@@ -25,6 +25,6 @@ I take comfort in these stories, we are not unique, we are not alone.
 
 As we move forward in the pursuit of information risk, let’s stay focused on where the real work should be done: measuring and communicating risk.  Let’s put a little less effort on defining it just yet.  Don’t’ get me wrong, definitions are helpful, but let’s not get all wrapped up in the precision of words when we’re still struggling with the concepts they are describing.
 
-[![img](/images/blank.png)](#) ![img](http://pixel.wp.com/b.gif?host=beechplane.wordpress.com&blog=13708129&post=68&subd=beechplane&ref=&feed=1)
+[![img](/images/blank.png)](#) ![img](https://pixel.wp.com/b.gif?host=beechplane.wordpress.com&blog=13708129&post=68&subd=beechplane&ref=&feed=1)
 
 

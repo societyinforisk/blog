@@ -5,7 +5,7 @@ Tags: Aggregated_Blogs
 Slug: aes-on-the-iphone-isn't-broken-by-default-jay-jacobs-2011-12-14-17:25:29
 Author: Jay Jacobs
 
->[AES on the iPhone isn’t broken by Default](http://beechplane.wordpress.com/2011/12/14/aes-on-the-iphone-isnt-broken-by-default/) originally posted at [Behavioral Security » Risk](http://beechplane.wordpress.com) and syndicated at [SIRA](http://societyinforisk.org)
+>[AES on the iPhone isn’t broken by Default](https://beechplane.wordpress.com/2011/12/14/aes-on-the-iphone-isnt-broken-by-default/) originally posted at [Behavioral Security » Risk](https://beechplane.wordpress.com) and syndicated at [SIRA](http://societyinforisk.org)
 ***
 I wanted to title this “CBC mode in the AES implementation on the iPhone isn’t as effective as it could be” but that was a bit too long.  Bob Rudis forwarded this post, “[AES on the iPhone is broken by Default](http://log.nadim.cc/?p=58)” to me via twitter this morning and I wanted to write up something quick on it because I responded “premise is faulty in that write up” and this ain’t gonna fit in 140 characters.  Here is the premise I’m talking about:
 
@@ -19,6 +19,6 @@ So what’s the real damage here?  As I said in order for CBC to be effective, 
 
 Overall, I think the claim of “AES is broken on the iPhone” is a bit overblown, but it’s up to the interpretation of “broken”.  If I were to rate this finding on a risk scale from “meh” to “sky is falling”, off the cuff I’d say it was more towards “meh”.  I’d appreciate this fixed from apple at some point… that is, if they get around to it and can squeeze it in so it doesn’t affect when I can get an iPhone 5…  I’d totally apply that patch.  But I certainly wouldn’t chuck my phone in the river over this.
 
-[![img](/images/blank.png)](#) ![img](http://pixel.wp.com/b.gif?host=beechplane.wordpress.com&blog=13708129&post=96&subd=beechplane&ref=&feed=1)
+[![img](/images/blank.png)](#) ![img](https://pixel.wp.com/b.gif?host=beechplane.wordpress.com&blog=13708129&post=96&subd=beechplane&ref=&feed=1)
 
 
