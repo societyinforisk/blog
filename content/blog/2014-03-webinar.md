@@ -8,6 +8,7 @@ Author: SIRA
 <center>
 SIRA Paid Members are invited to attend our inaugural 2015 webinar on<br/><br/>
 <b>Measuring & Managing Information Risk</b><br/><br/>
+<b>Friday, March 20, 2015 - 12:00EDT</b><br/><br/>
 featuring best-selling authors Jack Jones & Jack Freund<br/>
 </center>
 
