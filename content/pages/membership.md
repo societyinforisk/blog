@@ -10,9 +10,9 @@ The SIRA Board of Directors passed a resolution to start a new paid membership t
 The cost for SPM will be **$50.00USD**. SIRA will maintain current and historical records of your membership in the event you reference SPM on your CV/bio/resume. Benefits to membership include:
 
 - Reduced registration to SIRAcon ($50.00 off total price)
-- Membership through 2014
-- Proceedings of 2013 SIRAcon
-- SIRAcon journal subscription carried through 2014
+- Membership through 2015
+- Proceedings of 2014/2015 SIRAcons
+- SIRAcon journal subscription carried through 2015
 - Free access to SIRA-sponsored webinars
 
 Future webinars will be restricted to SPM or those paying to attend.
