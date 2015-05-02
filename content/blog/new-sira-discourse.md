@@ -20,4 +20,4 @@ As an extra bonus, we've added all the content from SIRAcon 2014 and the inaugur
 
 There are plenty of places in the SIRA Discourse to leave feedback and engage directly with the Board. 
 
-We encourge folks to help us kick the tyres, suggest new features and file bug reports as you come across things that just don't look right.
+We encourage folks to help us kick the tyres, suggest new features and file bug reports as you come across things that just don't look right.
