@@ -1,4 +1,4 @@
-Title: Thank You!
+Title: &nbsp;
 Date: 2014-01-01 10:05:00
 Category: news
 Tags: ThankYou
