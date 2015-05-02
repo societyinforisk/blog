@@ -6,4 +6,6 @@ Slug: contact-mgmt
 status: hidden
 Author: SIRA
 
-<center><script type="text/javascript" src="http://form.jotform.us/jsform/51214878396162"></script></center>
+<center>
+  <script type="text/javascript" src="//form.jotform.us/jsform/51214878396162"></script>
+  </center>
