@@ -1,4 +1,4 @@
-Title: SIRA May 2015 Webinar - Understanding Asset Risk via Vulnerability Prioriitization 
+Title: SIRA May 2015 Webinar - Understanding Asset Risk via Vulnerability Prioritization 
 Date: 2015-05-04 12:00:00
 Category: News
 Tags: webinar
