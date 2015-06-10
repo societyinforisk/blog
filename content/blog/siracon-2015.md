@@ -1,4 +1,4 @@
-Title: SIRAcon 2014!
+Title: Save the date for SIRAcon 2015!
 Date: 2015-06-10 10:00:00
 Category: News
 Tags: siracon
