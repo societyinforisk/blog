@@ -1,5 +1,5 @@
 Title: SIRAcon 2014!
-Date: 2014-05-21 10:00:00
+Date: 2015-06-10 10:00:00
 Category: News
 Tags: siracon
 Slug: siracon-2014
