@@ -2,8 +2,7 @@ Title: Save the date for SIRAcon 2015!
 Date: 2015-06-10 10:00:00
 Category: News
 Tags: siracon
-Slug: siracon-2014
-status: hidden
+Slug: siracon-2015
 Author: Allison Miller
 
 <img src="//societyinforisk.org/images/sc201501.png" style="max-width:100%; margin-left:auto; margin-right:auto; padding-bottom:30px"/>
