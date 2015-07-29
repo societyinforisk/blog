@@ -5,7 +5,9 @@ Tags: SIRAcon
 Slug: siracon
 Author: SIRA
 
-![](https://societyinforisk.org/images/sc201501.png)
+<b>SiRAcon 2015 is this October 8th & 9th in Detroit Michigan</b>
+
+<i>This year, hosted by QuickenLoans - Engineered to Amaze</i>
 
 Registration is now open for SiRAcon 2015 hosted by Quicken Loans in vibrant downtown Detroit, MI.
 
