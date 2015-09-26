@@ -15,4 +15,4 @@ To find out more
 - [view the nascent spreadsheet tool](https://docs.google.com/spreadsheets/d/1SBQwarmvyIRJQJqf9VN2Dma7Ukw2XU3fpYE0UOhIcwA/edit?usp=sharing), or
 - [meld with mind map](https://www.mindmeister.com/572637750/social-media-risk-metrics)
 
-To help out: Speak up on  the SIRA mailing list!
+To help out: Speak up on  the SIRA mailing list or on The SIRA Discourse!
