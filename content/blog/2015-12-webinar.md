@@ -1,4 +1,4 @@
-Title: SIRA December 2015 Webinar - Understanding Asset Risk via Vulnerability Prioritization 
+Title: SIRA December 2015 Webinar - Real World Reconnaisance Costs: A metric
 Date: 2015-12-03 12:00:00
 Category: News
 Tags: webinar
