@@ -22,7 +22,7 @@ The current (2014) board members are:
 - Lisa Leet
 - Jeff Lowder
 - Bob Rudis
-- David Severski
+- Michael Werneburg
 
 ### How To Get Involved
 
