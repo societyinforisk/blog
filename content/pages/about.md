@@ -13,7 +13,7 @@ The current management structure of SIRA consists of seven elected board members
 
 ### SIRA Management Team:
 
-The current (2016) board members are:
+The current (2014) board members are:
 
 - John Hoffoss - Treasurer (Appointed)
 - Chris Hayes
@@ -22,7 +22,7 @@ The current (2016) board members are:
 - Lisa Leet
 - Jeff Lowder
 - Bob Rudis
-- Michael Werneburg
+- David Severski
 
 ### How To Get Involved
 
