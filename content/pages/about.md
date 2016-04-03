@@ -15,15 +15,14 @@ The current management structure of SIRA consists of seven elected board members
 
 The current (2016) board members are:
 
+- Alex Hutton
 - John Hoffoss - Treasurer (Appointed)
-- Chris Hayes
 - Jay Jacobs
 - Allison Miller - President
 - Lisa Leet
 - Jeff Lowder
 - Bob Rudis
 - Michael Werneburg
-- Patrick Florer (Ex Officio)
 
 ### How To Get Involved
 
