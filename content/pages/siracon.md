@@ -1,62 +1,43 @@
-Title: SIRACon
-Date: 2014-01-01 10:03:00
-Category: news
-Tags: SIRAcon
-Slug: siracon
-Author: SIRA
+Title: SIRAcon 2016
+Date: 2016-07-27 00:55:00
+Category: News
+Tags: siracon
+Slug: siracon-2016
+Author: SIRA BoD
 
-<b>SiRAcon 2015 is this October 8th & 9th in Detroit Michigan</b>
+We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-14, 2016 (Wed-Fri).
 
-<i>This year, hosted by QuickenLoans - Engineered to Amaze</i>
+The [CFP is Open](https://siracon2016.busyconf.com/proposals/new)!
 
-Registration is now open for SiRAcon 2015 hosted by Quicken Loans in vibrant downtown Detroit, MI.
+The [ticket booh](https://siracon2016.busyconf.com/bookings/new) will be open soon!
 
-<center><button id="siracon2014buynow" onclick="window.open('https://siracon2015.busyconf.com/bookings/new', '_blank')" type="button" class="btn btn-primary">Skip the IFRAME and buy tickets at BusyConf</button></center>
+# Why should YOU present at SIRAcon?
 
-<center><iframe style="width:600px;height:435px" scrolling="no" border=0 seamless="seamless" src="https://siracon2015.busyconf.com/bookings/new"></iframe></center>
- 
-The conference will be held in the loft and auditorium spaces of the Madison Building, winner of a 2015 "Outstanding Building of the Year" Award from the International Building Owners and Managers Association. The Quicken Loans family of companies acquired the Madison Building in 2011 and completely renovated it, attracting new businesses and energy to our bustling urban core. Check out photos of the space at [www.eventsatmadison.com](http://www.eventsatmadison.com). The Madison Building is located at 1555 Broadway in the heart of downtown Detroit.
+Information Risk Management is what we do. It's what we think about, talk about, dream about, and love to hear new ideas about. If you're obsessed with finding a better way to measure and manage information risk, SIRAcon is the place to be. You'll find yourself among a community of supportive peers who are eager to help you further develop your ideas. So come join the fun and show us what you've got!
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3000.8588361190205!2d-83.04916908835965!3d42.336001572330666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883b2d322dcf3cc1%3A0xd93698167b0507eb!2s1555+Broadway+St%2C+Detroit%2C+MI+48226!5e0!3m2!1sen!2sus!4v1436393482592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
- 
-There are a number of hotels within walking distance:
- 
-- [Greektown Casino-Hotel](https://www.greektowncasino.com/hotel/) is offering a discounted rate for SiRAcon attendees that book before September 8th using group code `SIRA107`. You can book rooms [directly at their website](https://gc.synxis.com/rez.aspx?Hotel=23374&Chain=9056&shell=GCH002&arrive=10/7/2015&depart=10/10/2015&adult=1&child=0&group=SIRA107)
-- [Hilton Garden Inn](http://hiltongardeninn3.hilton.com/en/hotels/michigan/hilton-garden-inn-detroit-downtown-DETDHGI/index.html)
-- [Westin Book Cadillac](http://www.bookcadillacwestin.com/)
-- [Holiday Inn Express](http://www.ihg.com/holidayinnexpress/hotels/us/en/detroit/dttwb/hoteldetail)
+# What should YOU present?
 
-See you in October!
+Submitted topics should represent original works and be of interest to the SIRA membership. Real-life case studies (redacted/anonymized as needed) are generally preferred over more theoretical discussions, but all topics will be considered. Established and new presenters are all encouraged to respond. Please indicate whether your session will be a lecture, group discussion, demonstration, etc.
 
-<hr noshade size=2/>
+Suggested topics include (but are not limited to):
 
-Unlike any other security or privacy conference, at SIRACon risk is the main attraction.
-Information Risk Management is all we do.
+- Building a risk management program
+- Successes/challenges with a risk assessment framework
+- Regulations and standards within risk analysis
+- Risk communication/perception
+- The joy of using math to analyze risk
+- The pitfalls of not using math to analyze risk
+- Some variation of the last two
+- Risk aggregation across multiple analytic efforts
+- Cyber insurance
+- Economic influences within risk management
 
-Whether you are in a small company, a Fortune 50 corporation, or any other type of organization, SIRACon will provide you with the tools you can use to take your organization's risk management program to the next level.
+# IMPORTANT INFO
 
-Here you'll meet with top industry leaders and fellow IRM specialists to:
+- SIRAcon 2016 Dates: Wednesday-Friday, October 12-14, 2016
+- Location: Wake Forest Charlotte Center, Charlotte, NC
+- SIRAcon 2016 Conference Chair: Alex Hutton
+- [CFP](https://siracon2016.busyconf.com/proposals/new) *closes* on Friday, August 19, 2016 at 11:59 PM EDT
 
-- **Explore** the most important risk management challenges facing your organization
-- **Discover** how methods from other risk management disciplines can help you meet those challenges
-- **Build** meaningful professional relationships that keep you at the top level of your profession
 
-### Who will be there?
-
-The SIRA membership and attendees represent an dynamic cross-section of the industry today—including both decision makers and do-ers—with a blend of senior management and C-level talent in InfoSec, Op Risk, IT Risk Mgmt, Audit, & Compliance
-
-- Over *half* with *>10yrs experience*
-- Over *1/3* with *>15yrs* experience*
-- Key mix of *researchers* & *students*
-
-Plus cross-sector diversity, including:
-
-- **Financial** (Citi, RBS, Citizens, Liberty Mutual)
-- **Technology** (HP, EMC, Verizon)
-- **Consulting** (KPMG, E&Y, Deloitte)
-- **Health Care** (Kaiser, Providence Health)
-- **Higher Ed** (Harvard, George Mason, Rutgers)
-
-### Past SIRAcons
-
-You can take a look at [past SIRAcons](/category/siracon.html) and use the contact form to inquire about current-year plans/activities.
+QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com>
