@@ -1,7 +1,7 @@
 Title: SIRAcon 2016
 Date: 2016-07-27 00:55:00
 Category: News
-Tags: siracon
+Tags: SIRAcon
 Slug: siracon-2016
 Author: SIRA BoD
 
