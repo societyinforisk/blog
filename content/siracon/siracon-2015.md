@@ -2,7 +2,7 @@ Title: SIRAcon 2014 is on!
 Date: 2014-05-21 10:00:00
 Category: SIRAcon
 Tags: SIRAcon
-Slug: siracon-2014-is-on
+Slug: siracon-2015-is-on
 Author: SIRA
 
 <center>![img](//societyinforisk.org/images/sira-mn-2014.png)</center>
