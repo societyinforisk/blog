@@ -2,7 +2,7 @@ Title: SIRAcon 2016
 Date: 2016-07-27 00:55:00
 Category: News
 Tags: siracon
-Slug: siracon-2016
+Slug: siracon-2016-03
 Author: SIRA BoD
 
 We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-14, 2016 (Wed-Fri).
