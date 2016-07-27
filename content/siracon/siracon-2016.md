@@ -1,7 +1,6 @@
 Title: SIRAcon 2016 is on!
 Date: 2016-06-27 10:00:00
 Category: SIRAcon
-Status: draft
 Tags: SIRAcon
 Slug: siracon-2016-is-on
 Author: SIRA

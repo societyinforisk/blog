@@ -1,7 +1,6 @@
 Title: SIRAcon 2014 is on!
 Date: 2014-05-21 10:00:00
 Category: SIRAcon
-Status: draft
 Tags: SIRAcon
 Slug: siracon-2014-is-on
 Author: SIRA
