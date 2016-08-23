@@ -34,7 +34,7 @@ Suggested topics include (but are not limited to):
 
 # IMPORTANT INFO
 
-- SIRAcon 2016 Dates: Wednesday-Friday, October 12-14, 2016
+- SIRAcon 2016 Dates: Wednesday-Thursday, October 12-13, 2016
 - Location: Wake Forest Charlotte Center, Charlotte, NC
 - SIRAcon 2016 Conference Chair: Alex Hutton
 - [CFP](https://siracon2016.busyconf.com/proposals/new) *closes* on Friday, August 19, 2016 at 11:59 PM EDT
