@@ -9,7 +9,7 @@ We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America]
 
 The [CFP is Open](https://siracon2016.busyconf.com/proposals/new)!
 
-The [ticket booh](https://siracon2016.busyconf.com/bookings/new) will be open soon!
+The [ticket booth](https://siracon2016.busyconf.com/bookings/new) will be open soon!
 
 # Why should YOU present at SIRAcon?
 
