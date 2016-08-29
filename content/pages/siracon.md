@@ -5,7 +5,7 @@ Tags: SIRAcon
 Slug: siracon-2016
 Author: SIRA BoD
 
-We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-14, 2016 (Wed-Fri).
+We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-13, 2016 (Wed-Thu).
 
 The [CFP is Open](https://siracon2016.busyconf.com/proposals/new)!
 
@@ -34,10 +34,10 @@ Suggested topics include (but are not limited to):
 
 # IMPORTANT INFO
 
-- SIRAcon 2016 Dates: Wednesday-Friday, October 12-14, 2016
+- SIRAcon 2016 Dates: Wednesday-Thursdayy, October 12-13, 2016
 - Location: Wake Forest Charlotte Center, Charlotte, NC
 - SIRAcon 2016 Conference Chair: Alex Hutton
-- [CFP](https://siracon2016.busyconf.com/proposals/new) *closes* on Friday, August 19, 2016 at 11:59 PM EDT
+- [CFP](https://siracon2016.busyconf.com/proposals/new) has been extended!  Get in your proposal before it *closes* on Friday, September 2, 2016 at 11:59 PM EDT
 
 
 QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com>
