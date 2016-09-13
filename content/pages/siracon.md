@@ -1,5 +1,5 @@
 Title: SIRAcon 2016
-Date: 2016-09-13 10:00:00
+Date: 2016-09-12 10:00:00
 Category: News
 Tags: SIRAcon
 Slug: siracon-2016
