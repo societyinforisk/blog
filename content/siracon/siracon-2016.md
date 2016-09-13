@@ -39,4 +39,4 @@ Suggested topics include (but are not limited to):
 - [Ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! 
 
 
-QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com>
+QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com> 
