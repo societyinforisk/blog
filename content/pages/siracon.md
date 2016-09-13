@@ -1,15 +1,13 @@
-Title: SIRAcon 2016
-Date: 2016-07-27 00:55:00
+Title: SIRAcon 2016 is on!
+Date: 2016-09-13 10:00:00
 Category: News
 Tags: SIRAcon
-Slug: siracon-2016
-Author: SIRA BoD
+Slug: siracon-2016-tickets-on-sale
+Author: SIRA
 
-We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-13, 2016 (Wed-Thu).
+We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-13, 2016 (Wed-Thurs).
 
-The [CFP is Open](https://siracon2016.busyconf.com/proposals/new)!
-
-The [ticket booth](https://siracon2016.busyconf.com/bookings/new) will be open soon!
+The CFP just closed - and the [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! Don't miss out on the SIRACon SUPERDEAL - $100 for both members and nonmembers - ends 9/18. Buy today!
 
 # Why should YOU present at SIRAcon?
 
@@ -34,10 +32,11 @@ Suggested topics include (but are not limited to):
 
 # IMPORTANT INFO
 
-- SIRAcon 2016 Dates: Wednesday-Thursdayy, October 12-13, 2016
+- SIRAcon 2016 Dates: Wednesday-Thursday, October 12-13, 2016
 - Location: Wake Forest Charlotte Center, Charlotte, NC
 - SIRAcon 2016 Conference Chair: Alex Hutton
-- [CFP](https://siracon2016.busyconf.com/proposals/new) has been extended!  Get in your proposal before it *closes* on Friday, September 2, 2016 at 11:59 PM EDT
+- CFP is closed. Thanks to everyone who submitted! Watch your email for confirmations.
+- [Ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! 
 
 
-QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com>
+QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com> 
