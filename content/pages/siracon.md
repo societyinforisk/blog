@@ -7,9 +7,17 @@ Author: SIRA
 
 We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-13, 2016 (Wed-Thurs).
 
-The CFP just closed - and the [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! Don't miss out on the SIRACon SUPERDEAL - $100 for both members and nonmembers - ends 9/18. Buy today!
+## Speakers
+This year's speakers continue the theme of SIRAcon, including:
+- Lisa Young, "Measuring What Matters with GQIM"
+- Jay Jacobs, "Predicting the Future: Finding Indicators, Patterns and Relationships"
+- Evan Wheeler & Alejandra Glass, "Extreme but Plausible – Conducting Hypothetical Scenario Analysis"
+- Kelly White, "A Case Study: Building a scalable, evidence-based third-party risk management program"
 
-# IMPORTANT INFO
+##  Tickets
+The [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! Don't miss out on the SIRACon SUPERDEAL - $100 for both members and nonmembers - ends 9/18. Buy today!
+
+## IMPORTANT INFO
 
 - SIRAcon 2016 Dates: Wednesday-Thursday, October 12-13, 2016
 - Location: Wake Forest Charlotte Center, Charlotte, NC
@@ -17,8 +25,7 @@ The CFP just closed - and the [ticket booth](https://siracon2016.busyconf.com/bo
 - CFP is closed. Thanks to everyone who submitted! Watch your email for confirmations.
 - [Ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! 
 
-
 QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com>.
 
-# FAIR Conference
+## FAIR Conference
 This year's SIRACon will be followed by [the FAIR Conference](http://www.fairinstitute.org/fair-conference), a one-day event at the same location. Hosted by the FAIR Institute, the FAIR Conference brings leaders in information and operational risk management together to explore best FAIR practices that produce greater value and alignment with business goals.
