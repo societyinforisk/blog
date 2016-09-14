@@ -18,7 +18,7 @@ This year's speakers continue the theme of SIRAcon, including:
 - Kelly White, "A Case Study: Building a scalable, evidence-based third-party risk management program"
 
 ##  Tickets
-The [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! Don't miss out on the SIRACon SUPERDEAL - $100 for both members and nonmembers - ends 9/18. Buy today!
+<span style='color: red;'>The [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN!</span> Don't miss out on the SIRACon SUPERDEAL - $100 for both members and nonmembers - ends 9/18. Buy today!
 
 ### FAIR Conference
 This year's SIRACon will be followed by [the FAIR Conference](http://www.fairinstitute.org/fair-conference), a one-day event at the same location. Hosted by the FAIR Institute, the FAIR Conference brings leaders in information and operational risk management together to explore best FAIR practices that produce greater value and alignment with business goals.
