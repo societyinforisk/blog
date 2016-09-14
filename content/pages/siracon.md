@@ -19,6 +19,6 @@ The CFP just closed - and the [ticket booth](https://siracon2016.busyconf.com/bo
 
 
 QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com>.
-<alex.hutton@societyinforisk.org> or <lisa.leet@societyinforisk.org>.
 
+# FAIR Conference
 This year's SIRACon will be followed by [the FAIR Conference](http://www.fairinstitute.org/fair-conference), a one-day event at the same location. Hosted by the FAIR Institute, the FAIR Conference brings leaders in information and operational risk management together to explore best FAIR practices that produce greater value and alignment with business goals.
