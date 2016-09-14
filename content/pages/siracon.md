@@ -7,6 +7,9 @@ Author: SIRA
 
 We are pleased to announce that SIRACon 2016 will be hosted by [Bank of America](https://www.bankofamerica.com/), in beautiful [Charlotte, North Carolina](http://business.wfu.edu/charlotte/), on October 12-13, 2016 (Wed-Thurs).
 
+## Why should <span class="caps">YOU</span> go to&nbsp;SIRAcon?
+Information Risk Management is what we do. It's what we think about, talk about, dream about, and love to hear new ideas about. If you';re obsessed with finding a better way to measure and manage information risk, SIRAcon is the place to be. You'll find yourself among a community of supportive peers who are eager to help you further develop your ideas.
+
 ## Speakers
 This year's speakers continue the theme of SIRAcon, including:
 - Lisa Young, "Measuring What Matters with GQIM"
@@ -24,6 +27,8 @@ The [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! D
 - SIRAcon 2016 Conference Chair: Alex Hutton
 - CFP is closed. Thanks to everyone who submitted! Watch your email for confirmations.
 - [Ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN! 
+
+
 
 QUESTIONS? Contact <alexhutton@gmail.com> or <leet.lisa@gmail.com>.
 
