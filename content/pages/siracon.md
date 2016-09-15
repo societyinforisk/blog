@@ -12,10 +12,10 @@ Information Risk Management is what we do. It's what we think about, talk about,
 
 ### Speakers
 This year's speakers continue the theme of SIRAcon, including:
-*  Lisa Young, "Measuring What Matters with GQIM"
-* Jay Jacobs, "Predicting the Future: Finding Indicators, Patterns and Relationships"
-* Evan Wheeler & Alejandra Glass, "Extreme but Plausible – Conducting Hypothetical Scenario Analysis"
-*  Kelly White, "A Case Study: Building a scalable, evidence-based third-party risk management program"
+*  Lisa Young, "Measuring What Matters with GQIM"  
+* Jay Jacobs, "Predicting the Future: Finding Indicators, Patterns and Relationships"  
+* Evan Wheeler & Alejandra Glass, "Extreme but Plausible – Conducting Hypothetical Scenario Analysis"  
+*  Kelly White, "A Case Study: Building a scalable, evidence-based third-party risk management program"  
 
 ##  Tickets
 <span style='color: red;'>The [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN!</span> Don't miss out on the SIRACon SUPERDEAL - $100 for both members and nonmembers - ends 9/18. Buy today!
