@@ -1,6 +1,6 @@
 Title: SIRAcon 2016 is on!
 Date: 2016-09-15 10:00:00
-Category: SIRAcon
+Category: News
 Tags: SIRAcon
 Slug: siracon-2016-09
 Author: SIRA
