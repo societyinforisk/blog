@@ -1,5 +1,5 @@
 Title: SIRAcon 2016
-Date: 2016-09-12 10:00:00
+Date: 2016-10-11 10:00:00
 Category: News
 Tags: SIRAcon
 Slug: siracon-2016
@@ -21,7 +21,7 @@ This year's speakers continue the theme of SIRAcon, including:
 <span style='color: red;'>The [ticket booth](https://siracon2016.busyconf.com/bookings/new) is NOW OPEN!</span> Don't miss out on the SIRACon SUPERDEAL - $100 for both members and nonmembers - ends 9/18. Buy today!
 
 ### FAIR Conference
-This year's SIRACon will be followed by [the FAIR Conference](http://www.fairinstitute.org/fair-conference), a one-day event at the same location. Hosted by the FAIR Institute, the inaugural FAIR Conference brings leaders in information and operational risk management together to explore best FAIR practices that produce greater value and alignment with business goals. Register [here](https://www.eventbrite.com/e/fair-conference-2016-tickets-27133438846) by October 1st and get 50% off.
+This year's SIRACon will be followed by [the FAIR Conference](http://www.fairinstitute.org/fair-conference), a one-day event at the same location. Hosted by the FAIR Institute, the inaugural FAIR Conference brings leaders in information and operational risk management together to explore best FAIR practices that produce greater value and alignment with business goals. Register [here](https://www.eventbrite.com/e/fair-conference-2016-tickets-27133438846) and get 50% off.
 
 ## IMPORTANT INFO
 
